@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Caroline",
+      "age": "Jouanny",
+      "address": "Female",
+      "Department": "students",
+      "salary": ""
+    },
+    {
+      "name": "SAYALI SUBHASH GIRI",
+      "age": "1",
+      "address": "1",
+      "Department": "Arts",
+      "salary": "1",
+      "id": 2
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "Department": [
+        "Science",
+        "Arts",
+        "Commerce"
+      ],
+      "salary": "",
+      "id": 3
+    }
+  ]
+}
